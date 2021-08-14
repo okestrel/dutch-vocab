@@ -1,0 +1,49 @@
+entries:
+{Dutch word,
+{word frequency #,
+[English translation(s)],
+[part(s) of speech {:noun "noun/pronoun", :vb "verb", :ad "adjective/adverb", :c/p "conjunction/preposition"}],
+de/het (null if n/a),
+vocab list(s) [{indexed}]}
+
+
+vocab lists:
+{:1 "mind/thought"
+:2 "personal character/qualities"
+:3 "situations/relations"
+:4 "magic/fantasy"
+:5 "impersonal qualities"
+:6 "work/money"
+:7 "change/discovery"
+:8 "household"
+:9 "strife/adversity"
+10: "personal/small objects"
+11: "relationships/collectives"
+12: "religion/spirituality"
+13: "time"
+14: "body/health/life"
+15: "crime and punishment"
+16: "chance/success"
+17: "communication"
+18: "places"
+19: "visual/attention"
+20: "art/entertainment"
+21: "text"
+22: "natural world"
+23: "truth/education"
+24: "quantity/presence"
+25: "negative/worsen"
+26: "positive/superlative/improve"
+27: "possession"
+28: "effort/giving"
+29: "food/drink"
+30: "moving/transportation"
+31: "sports/action"
+32: "common actions"
+33: "ability/potential"
+34: "emotions/reactions/provocations"
+35: "cause/effect"
+36: "colloquialisms"
+37: "abstract concepts"
+38: "power/society"}
+39: "conjunctions/prepositions"

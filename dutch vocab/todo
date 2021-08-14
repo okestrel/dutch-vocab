@@ -1,0 +1,25 @@
+-function to update database (def, atom reference?)
+inside function that reformats input to database format
+
+-prompt for input
+-mode: lookup, insert, test
+lookup: searches vocab words for match- exact match or similar (first, last, % characters, other regexs, options like candidate completion)
+lookup: if not in vocab list, offline dictionary
+lookup: display all values for word key
+
+insert: prompt for: word, frequency #, translation, vocab list, part of speech, de/het (null if none)
+insert: vocab lists indexed, prompt for number (or ask to display indexes)
+test: selects Dutch word, prompts for translation, displays correct translation (possibly evaluates if response correct or close)
+test: asks if hint wanted for vocab list, other values
+test: selection from random, or: given vocab list, frequency # range, part of speech
+test: extend to testing conjugations
+test easy, medium, hard by thirds of frequency list
+menu options with smenu?
+
+-stores test results
+
+-separate program that references vocab, integrates with emacs as suggestions/completion candidates for Dutch word translations (in subs) when word is selected/highlighted/clicked
+
+-run from shell
+SSH to shell to run remotely
+other options to run remotely 

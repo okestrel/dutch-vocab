@@ -1,0 +1,21 @@
+
+[
+{"verdomme" {168, "damn", :ad, nil, :25}},
+{"gek" {170, ["crazy" "fool"], [:ad :noun], de, :2}},
+{"wissen" {174, "wipe", :vb, nil, :2}},
+{"geweldig" {200, "awesome", :ad, nil, :26}},
+{"lijken" {208, ["resemble" "cadavers"], [:vb :noun], de, [:19 :14]}},
+{"gelijk" {238, ["equal/similar" "(is) right"], [:ad :noun], het, [:23 :23]}},
+{"alsof" {244, "as if", :c/p, nil, :39}},
+{"verder" {250, "further/moreover", :ad, nil, :3}},
+{"pas" {251, ["just now" "pass/step"], [:ad :noun], de, [:13 :30]}},
+{
+
+
+
+
+
+
+
+{"onzin" {"nonsense", 484, :noun, de, :25}}
+

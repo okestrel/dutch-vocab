@@ -1,0 +1,64 @@
+{"verdomme" ["168" "damn" "ad" "" "25"]}
+{"gek" ["170" ["crazy" "fool"] ["ad" "noun"] "de" "2"]}
+{"wissen" ["174" "wipe" "vb" "" "2"]}
+{"geweldig" ["200" "awesome" "ad" "" "26"]}
+{"lijken" ["208" ["resemble" "cadavers"] ["vb" "noun"] "de" ["19" "14"]]}
+{"heen" ["213" ["there" "away"] ["ad" "ad"] "" "3"]}
+{"halen" ["225" ["get" "fetch"] ["vb" "vb"] "" ["32" "32"]]}
+{"gelijk" ["238" ["equal/similar" "(is) right"] ["ad" "noun"] "het"  ["23" "23"]]}
+{"alsof" ["244" "as if" "cp" "" "39"]}
+{"verder" ["250" "further/moreover" "ad" "" "3"]}
+{"pas" ["251" ["just now" "pass/step"] ["ad" "noun"] "de" ["13" "30"]]}
+{"vermoorden" ["258" "murder" "vb" "" "15"]}
+{"scheiten" ["260" "shoot" "vb" "" "15"]}
+{"daarom" ["268" "therefore" "cp" "" "39"]}
+{"schat" ["281" ["treasure" "darling"] ["noun" "noun"] "de" ["6" "11"]]}
+{"vooruit" ["286" "ahead" "ad" "" "3"]}
+{"juist" ["295" "just (correct)" "ad" "" "23"]}
+{"pakken" ["305" "grab" "vb" "" "32"]}
+{"kloppen" ["310" "knock" "vb" "" "32"]}
+{"zaak" ["321" "case (matter)" "noun" "de" "37"]}
+{"mis" ["326" ["erroneous" "mass"] ["ad" "noun"] "de" ["23" "5"]]}
+{"wakker" ["331" "awake" "ad" "" "2"]}
+{"neer" ["336" "down" "ad" "" "3"]}
+{"druk" ["342" ["pressure" "busy"] ["noun" "ad"] "de" ["9" "2"]]}
+{"snappen" ["345" "understand" "vb" "" "23"]}
+{"stel" ["352" "set/bunch/pair" "noun" "het" "24"]}
+{"eerder" ["361" ["earlier" "quite"] ["ad" "ad"] "" ["13" "26"]]}
+{"waarschijnlijk" ["368" "probably/presumably" "ad" "" "23"]}
+{"vent" ["369" "guy" "noun" "de" "2"]}
+{"rusten" ["372" "rest/lie" "vb" "" "32"]}
+{"sterven" ["373" "die" "vb" "" "14"]}
+{"aardig" ["386" "nice/pretty/likable" "ad" "" "2"]}
+{"eerlijk" ["394" "honest/straight" "ad" "" "2"]}
+{"kerel" ["401" "guy/fellow" "noun" "de" "2"]}
+{"rede" ["406" ["reason" "speech"] ["noun" "noun"] "de" ["23" "17"]]}
+{"duidelijk" ["413" "obvious" "ad" "" "23"]}
+{"prachtig" ["418" "wonderful" "ad" "" "26"]}
+{"zin" ["425" "sentence" "noun" "de" "21"]}
+{"deel" ["426" "part/share" "noun" "het" "24"]}
+{"geval" ["433" "case" "noun" "het" "23"]}
+{"noemen" ["442" "call/mention" "vb" "" "17"]}
+{"vechten" ["443" "fight/battle" "vb" "" "9"]}
+{"kwaad" ["447" ["evil/angry" "evil/harm"] ["ad" "noun"] "het" ["2" "25"]]}
+{"verdommen" ["454" "trash" "noun" "het" "8"]}
+{"kwijt" ["459" "lost" "ad" "" "27"]}
+{"vertrouwen" ["460" ["trust" "trust"] ["noun" "vb"] "het" ["11" "11"]]}
+{"achten" ["472" "deem/regard" "vb" "" "1"]}
+{"onzin" ["484" "nonsense" "noun" "de" "25"]}
+{"vreemd" ["491" "strange(ly)" "ad" "" "5"]}
+{"nogal" ["495" "quite" "ad" "" "26"]}
+{"beloven" ["501" "promise" "vb" "" "17"]}
+{"hoezo" ["505" "why (how so)" "cp" "" "39"]}
+{"allebei" ["506" "both" "ad" "" "24"]}
+{"hemel" ["507" "sky/heaven" "noun" "de" "22"]}
+{"zomaar" ["512" "just" "ad" "" "13"]}
+{"hierheen" ["521" "here/hither" "ad" "" "3"]}
+{"leger" ["522" "army" "noun" "het" "38"]}
+{"kracht" ["525" "force/power" "noun" "de" "38"]}
+{"moord" ["528" "murder" "noun" "de" "15"]}
+{"verlaten" ["529" ["leave" "abandoned"] ["vb" "ad"] "" ["30" "24"]]}
+{"stom" ["533" "stupid" "ad" "" "2"]}
+{"vertrek" ["535" ["departure" "room"] ["noun" "noun"] "het" ["30" "8"]]}
+{"stellen" ["538" "suppose/put" "vb" "" "17"]}
+{"eentje" ["539" "alone/oneself" "ad" "" "24"]}
