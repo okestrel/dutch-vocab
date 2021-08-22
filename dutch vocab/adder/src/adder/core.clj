@@ -1,3 +1,4 @@
+;test additions for magit
 (ns adder.core)
 
 (defn foo
